@@ -13,7 +13,7 @@ export default function SignInPage() {
     >
       <div className="flex flex-col items-center space-y-8 w-full max-w-5xl">
         <h1 className="text-2xl font-bold text-center">
-          CIAM Roadmap - POC
+          CIAM Roadmap - Outage Portal POC
         </h1>
 
         {/* Responsive Panel Layout */}
